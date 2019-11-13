@@ -1,6 +1,5 @@
 ---
 title: Trials in Tinctures
-layout: post
 description: >
     This is a recent experience report from making different kinds of tinctures.
     All of these tinctures involved cannabis, but each used a different solvent.
